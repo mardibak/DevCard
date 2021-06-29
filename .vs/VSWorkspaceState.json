@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\DevCard_MVC",
+    "\\DevCard_MVC\\Controllers",
+    "\\DevCard_MVC\\Views",
+    "\\DevCard_MVC\\Views\\Home",
+    "\\DevCard_MVC\\Views\\Shared",
+    "\\DevCard_MVC\\wwwroot"
   ],
   "PreviewInSolutionExplorer": false
 }
