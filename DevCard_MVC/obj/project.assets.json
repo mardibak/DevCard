@@ -6232,19 +6232,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Bi\\.nuget\\packages\\": {}
+    "C:\\Users\\cix\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\CSharp\\Project\\DevCard\\DevCard_MVC\\DevCard_MVC.csproj",
+      "projectUniqueName": "D:\\Learning\\Project\\DevCard\\DevCard_MVC\\DevCard_MVC.csproj",
       "projectName": "DevCard_MVC",
-      "projectPath": "E:\\CSharp\\Project\\DevCard\\DevCard_MVC\\DevCard_MVC.csproj",
-      "packagesPath": "C:\\Users\\Bi\\.nuget\\packages\\",
-      "outputPath": "E:\\CSharp\\Project\\DevCard\\DevCard_MVC\\obj\\",
+      "projectPath": "D:\\Learning\\Project\\DevCard\\DevCard_MVC\\DevCard_MVC.csproj",
+      "packagesPath": "C:\\Users\\cix\\.nuget\\packages\\",
+      "outputPath": "D:\\Learning\\Project\\DevCard\\DevCard_MVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Bi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\cix\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
